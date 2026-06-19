@@ -39,6 +39,8 @@ In this lesson, you will learn how to:
 
 3. **Install Scikit-learn**, by following [these instructions](https://scikit-learn.org/stable/install.html). Since you need to ensure that you use Python 3, it's recommended that you use a virtual environment. Note, if you are installing this library on a M1 Mac, there are special instructions on the page linked above.
 
+   To activate Scikit-learn venv: sklearn-env\Scripts\activate  # activate
+
 1. **Install Jupyter Notebook**. You will need to [install the Jupyter package](https://pypi.org/project/jupyter/).
 
 ## Your ML authoring environment
